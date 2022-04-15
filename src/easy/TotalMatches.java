@@ -37,6 +37,6 @@ public class TotalMatches {
 
     public static void main(String args[]){
         System.out.print(numberOfMatches(7));
-        
+
     }
 }
