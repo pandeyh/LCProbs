@@ -30,7 +30,7 @@ public class ListMerge {
 
             if(list2 != null )
                 temp.next  = list2;
-            
+
             return n.next;
         }
 
