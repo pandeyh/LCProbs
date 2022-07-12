@@ -7,7 +7,7 @@ public class IsValidBST {
 
     public boolean isValidBST(TreeNode root)
     {
-        // can use Integer.Min and Integer.Max too but leetcode tests uses a higher range 
+        // can use Integer.Min and Integer.Max too but leetcode tests uses a higher range
         return isBST2(root, Long.MIN_VALUE, Long.MAX_VALUE);
 
     }
