@@ -1,6 +1,6 @@
 package easy;
 
-import java.util.HashMap;
+import utils.ListNode;
 
 //https://leetcode.com/problems/linked-list-cycle/
 

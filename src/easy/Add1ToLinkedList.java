@@ -5,6 +5,8 @@ package easy;
 // or 1 -> 2 -> 9 After adding one it will be 1 -> 2 -> 10
 
 
+import utils.ListNode;
+
 public class Add1ToLinkedList {
 
     public static ListNode addOneToList(ListNode l) {

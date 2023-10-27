@@ -2,6 +2,8 @@ package hard;
 
 // Merge two sorted arrays
 class MergeArrays {
+
+
     public  static int[] mergeArrays(int[] nums1, int[] nums2) {
 
 

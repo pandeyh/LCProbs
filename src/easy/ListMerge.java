@@ -2,6 +2,8 @@ package easy;
 
 // https://leetcode.com/problems/merge-two-sorted-lists/
 
+import utils.ListNode;
+
 public class ListMerge {
 
 

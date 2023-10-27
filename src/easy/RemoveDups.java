@@ -2,6 +2,8 @@ package easy;
 
 // https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 
+import utils.ListNode;
+
 public class RemoveDups {
 
     public ListNode deleteDuplicates(ListNode head) {
