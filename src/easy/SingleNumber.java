@@ -10,7 +10,7 @@ public class SingleNumber {
 
         for(int i=0;i<nums.length; i++){
 
-            ans ^= nums[i];
+            ans ^= nums[i]; // XOR same number will give 0 and Xoring with 0 gives the number itself
         }
 
         return ans;

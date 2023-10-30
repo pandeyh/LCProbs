@@ -1,5 +1,7 @@
 package medium;
 
+import java.util.HashMap;
+
 //https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan&id=algorithm-i
 public class TwoSum {
 
@@ -10,6 +12,8 @@ public class TwoSum {
         int high = len-1;
 
         int[] res = new int[2];
+
+
 
          while(low < high){
              int sum = numbers[low] + numbers[high];
